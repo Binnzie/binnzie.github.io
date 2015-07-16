@@ -148,7 +148,7 @@ a:focus {
     padding: 100px 0;
     text-align: center;
     color: #fff;
-    background: url(../img/wood_darker.jpg) no-repeat bottom center scroll;
+    background: url(../img/wood_darker_small.jpg) no-repeat bottom center scroll;
     -webkit-mask-image: -webkit-linear-gradient(top, rgba(0,0,0,1), rgba(0,0,0,0));
     background-color: #000;
     -webkit-background-size: cover;
