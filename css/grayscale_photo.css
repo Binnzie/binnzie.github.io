@@ -10,7 +10,7 @@ body {
     font-family: Lora,"Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #fff;
     background-color: #333333;
-    background-image: linear-gradient(90deg, #000000, #333333, #000000);
+    background-image: linear-gradient(90deg, #000000, #222222, #000000);
 }
 
 html {
